@@ -1,5 +1,7 @@
 Repositório de versões e colaborações
+
 Atividade de Versionamento com Git e GitHub
+
 Curso de BackEnd Senai turma 10, 2022.
 
 Comandos Utilizados:
