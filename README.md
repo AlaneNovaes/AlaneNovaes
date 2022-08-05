@@ -14,7 +14,7 @@ Comandos Utilizados:
 - git remote -v: para vizualizar o repositorio remoto
 - git push -u origin main: para publicar as alterações no repositório remoto
 - git clone <URL> : para copiar informações do repositório remoto para o repositorio local
-- git pull : para baxair as alterações no repositório
+- git pull : para baixar as alterações no repositório
 - git checkout -b <nome da branch>: para criar uma branch
 - git merge : para mesclar as branchs
 
